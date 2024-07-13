@@ -1,6 +1,7 @@
 a = int(input('a = '))
 b = int(input('b = '))
 if a > b:
-    print('a')
+    print('a > b')
 else:
-    print('b')
+    print('b >= a')
+
