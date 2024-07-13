@@ -1,6 +1,6 @@
 a = int(input('a = '))
 b = int(input('b = '))
 if a > b:
-    print('!+!')
+    print('a > b')
 else:
-    print('error')
+    print('b >= a')
